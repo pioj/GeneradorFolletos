@@ -1,0 +1,24 @@
+{
+  "id": 1,
+  "titutlo": "Introducción a Unity3D",
+  "dificultad": "Basico",
+  "parrafos": [
+    {
+      "texto": "blah blah blah"
+    },
+    {
+      "texto": "blih blih blih..."
+    }
+  ],
+  "capturas": [
+    {
+      "url": "captura01.png"
+    },
+    {
+      "url": "captura02.png"
+    },
+    {
+      "url": "captura02.png"
+    }
+  ]
+}
